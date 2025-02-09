@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasen Nimje</h1>
-<h3 align="center">A passionate Python Developer and Data Science</h3>
+<h3 align="center">📊 Aspirant to Data Analyst | Python Devloper | Data Science</h3>
 
 - 📫 How to reach me **prasennimje100@gmail.com**
 
