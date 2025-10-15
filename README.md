@@ -19,7 +19,6 @@
 
 <!-- GitHub Profile Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=prasen8&show_icons=true&theme=tokyonight&hide_border=true" alt="prasen8's GitHub stats" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=prasen8&theme=tokyonight&hide_border=true" alt="prasen8's GitHub streak" width="45%" />
 
 <br><br>
 
