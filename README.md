@@ -15,3 +15,33 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasen8&show_icons=true&locale=en" alt="prasen8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasen8&" alt="prasen8" /></p>
+
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<div align="center">
+
+<!-- GitHub Profile Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=prasen8&show_icons=true&theme=tokyonight&hide_border=true" alt="prasen8's GitHub stats" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=prasen8&theme=tokyonight&hide_border=true" alt="prasen8's GitHub streak" width="45%" />
+
+<br><br>
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasen8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+
+<!-- GitHub Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasen8&theme=tokyonight" alt="GitHub Profile Summary" width="90%" />
+
+</div>
+
+---
+
+<h4 align="center">⭐ Profile Views</h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prasen8&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/>
+</p>
+
+---
+
+<h3 align="center">🚀 "Turning Data into Insights | Building Models that Matter"</h3>
