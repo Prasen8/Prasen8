@@ -20,8 +20,6 @@
 <!-- GitHub Profile Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=prasen8&show_icons=true&theme=tokyonight&hide_border=true" alt="prasen8's GitHub stats" width="45%" />
 
-<br><br>
-
 <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasen8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 
