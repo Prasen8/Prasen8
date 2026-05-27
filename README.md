@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasen Nimje</h1>
-<h3 align="center">📊 Aspirant to Data Analyst | Python Devloper | Data Science</h3>
+<h3 align="center">Python Developer focused on AI, ML, and Data Analytics. Experienced in data cleaning, visualization, and building intelligent tools like strictly NLP-powered ATS systems.</h3>
 
 - 📫 How to reach me **prasennimje100@gmail.com**
 
