@@ -1,4 +1,4 @@
-![logo](https://github.com/Prasen8/Prasen8/blob/main/Prasen%20Nimje.png)
+![logo]([https://github.com/Prasen8/Prasen8/blob/main/Prasen%20Nimje.png](https://github.com/Prasen8/Prasen8/blob/main/1.png))
 
 <h1 align="center">Hi 👋, I'm Prasen Nimje</h1>
 <h3 align="center">Python Developer focused on AI, ML, and Data Analytics. Experienced in data cleaning, visualization, and building intelligent tools like strictly NLP-powered ATS systems.</h3>
