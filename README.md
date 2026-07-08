@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:8a2be2&height=220&section=header&text=Prasen%20Pramod%20Nimje&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20ML%20%7C%20Python%20%7C%20FastAPI%20%7C%20NLP&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:8a2be2&height=180&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+AI-Powered+Full-Stack+Systems;NLP+%7C+Machine+Learning+%7C+Predictive+Analytics;Engineering+Products+That+Ship+to+Production;Turning+Data+into+Deployed+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=48&duration=3500&pause=1200&color=D8B4FE&center=true&vCenter=true&width=700&height=70&lines=Prasen+Pramod+Nimje" alt="Name Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+AI-Powered+Full-Stack+Systems;NLP+%7C+Machine+Learning+%7C+Predictive+Analytics;Engineering+Products+That+Ship+to+Production;Turning+Data+into+Deployed+Intelligence" alt="Typing SVG" />
 
 <br/>
 
