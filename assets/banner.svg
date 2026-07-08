@@ -1,0 +1,65 @@
+<svg width="1600" height="320" viewBox="0 0 1600 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2d1b69"/>
+      <stop offset="45%" stop-color="#5b21b6"/>
+      <stop offset="75%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#c4b5fd" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#c4b5fd" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nodeLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c4b5fd" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#c4b5fd" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#c4b5fd" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="320" fill="#0a0a18"/>
+
+  <circle cx="120" cy="60" r="140" fill="url(#glow1)"/>
+  <circle cx="1480" cy="260" r="160" fill="url(#glow2)"/>
+
+  <g opacity="0.5">
+    <circle cx="90" cy="40" r="2" fill="#c4b5fd"/>
+    <circle cx="150" cy="80" r="1.5" fill="#a78bfa"/>
+    <circle cx="60" cy="120" r="1.5" fill="#c4b5fd"/>
+    <circle cx="200" cy="50" r="1" fill="#a78bfa"/>
+    <circle cx="1500" cy="60" r="2" fill="#c4b5fd"/>
+    <circle cx="1440" cy="100" r="1.5" fill="#a78bfa"/>
+    <circle cx="1550" cy="140" r="1.5" fill="#c4b5fd"/>
+    <circle cx="1400" cy="40" r="1" fill="#a78bfa"/>
+  </g>
+
+  <path d="M 60 24 L 1540 24 L 1540 216 C 1300 260, 1180 190, 970 232 C 760 274, 540 200, 300 238 C 200 254, 120 244, 60 226 Z" fill="url(#panelGrad)"/>
+
+  <g opacity="0.18" stroke="#ffffff" stroke-width="0.5">
+    <line x1="60" y1="70" x2="1540" y2="70"/>
+    <line x1="60" y1="120" x2="1540" y2="120"/>
+    <line x1="60" y1="170" x2="1540" y2="170"/>
+  </g>
+
+  <g opacity="0.6">
+    <line x1="1160" y1="45" x2="1280" y2="45" stroke="url(#nodeLine)" stroke-width="1"/>
+    <circle cx="1160" cy="45" r="3" fill="#c4b5fd"/>
+    <circle cx="1220" cy="45" r="2" fill="#e9d5ff"/>
+    <circle cx="1280" cy="45" r="3" fill="#c4b5fd"/>
+    <line x1="1190" y1="45" x2="1220" y2="65" stroke="url(#nodeLine)" stroke-width="1"/>
+    <circle cx="1190" cy="65" r="2" fill="#c4b5fd"/>
+  </g>
+
+  <rect x="1372" y="42" width="128" height="34" rx="17" fill="#ffffff" fill-opacity="0.1" stroke="#e9d5ff" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="1436" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5" fill="#f3e8ff" text-anchor="middle">AI ENGINEER</text>
+
+  <text x="800" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="78" font-weight="800" fill="#ffffff" text-anchor="middle">Prasen Nimje</text>
+
+  <text x="800" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0.5" fill="#e9d5ff" text-anchor="middle">Building Intelligent Systems That Ship</text>
+
+  <line x1="700" y1="184" x2="900" y2="184" stroke="#e9d5ff" stroke-opacity="0.5" stroke-width="1"/>
+</svg>
