@@ -1,132 +1,181 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,6A5ACD,8A2BE2,9370DB&height=200&section=header&text=Prasen%20Nimje&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Building%20Intelligent%20Systems&descAlignY=55&descSize=20" width="100%" />
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Python+Developer;AI+%26+ML+Engineer;NLP+Specialist;Full-Stack+Innovator" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:8a2be2&height=220&section=header&text=Prasen%20Pramod%20Nimje&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20ML%20%7C%20Python%20%7C%20FastAPI%20%7C%20NLP&descAlignY=58&descSize=18" width="100%"/>
 
-  <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+AI-Powered+Full-Stack+Systems;NLP+%7C+Machine+Learning+%7C+Predictive+Analytics;Engineering+Products+That+Ship+to+Production;Turning+Data+into+Deployed+Intelligence" alt="Typing SVG" />
 
-  <img src="https://img.shields.io/badge/Education-B.E.%20Final%20Year-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Pune,%20India-6A5ACD?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<br/>
 
-  <br/><br/>
+![B.E. AI & Data Science](https://img.shields.io/badge/B.E.-AI%20%26%20Data%20Science-6a0dad?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Pusad%2C%20Maharashtra%2C%20India-8a2be2?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-  <a href="https://linktr.ee/Prasen8"><img src="https://img.shields.io/badge/Portfolio-Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/prasen-nimje"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:prasennimje100@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Prasen8"><img src="https://img.shields.io/badge/GitHub-Follow-9370DB?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/>
 
-  <br/><br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=linktree&logoColor=A78BFA)](https://linktr.ee/Prasen8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/prasen-nimje)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:prasennimje100@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Prasen8)
 
-  <img src="https://komarev.com/ghpvc/?username=Prasen8&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Prasen8?label=Followers&style=for-the-badge&color=4B0082&logo=github" />
-  <img src="https://img.shields.io/github/stars/Prasen8?label=Stars&style=for-the-badge&color=6A5ACD&logo=github" />
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Prasen8&label=Profile%20Views&color=6a0dad&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Prasen8?label=Followers&style=for-the-badge&color=8a2be2&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/Prasen8?label=Stars&style=for-the-badge&color=A78BFA&labelColor=1a1a2e)
+
 </div>
 
 ---
 
-## 🌌 About Me
+## 🧠 About Me
 
-As a dedicated Python Developer and final-year B.E. student, I specialize in bridging the gap between raw data and intelligent, user-centric software. My core engineering focus lies in **Artificial Intelligence, Machine Learning, and strictly NLP-powered architectures**, combined with robust full-stack development. I architect systems that prioritize performance, precision, and scalability, employing a product engineering mindset to build solutions that matter.
+I'm an **Artificial Intelligence & Data Science engineer** who builds production-grade systems end-to-end — from raw, messy data to deployed, user-facing applications. My focus sits at the intersection of **software engineering discipline** and **applied machine learning**, with a strong bias toward shipping.
 
-- 🔭 **Current Focus:** Advanced Natural Language Processing, Large Language Models, and Blockchain architectures.
-- ⚙️ **Engineering Philosophy:** Clean code, highly optimized data pipelines, and intelligent system design.
-- 🌱 **Open To:** Software Engineering, AI/ML Engineering, and Data Science roles.
+I've architected and deployed **3 full-stack ML/NLP applications**, including an NLP-based Applicant Tracking System evaluated on 50+ resumes at **80–90% skill-matching accuracy**, and predictive analytics platforms reaching **91–92% model accuracy**. I care about clean pipelines, measurable performance, and interfaces that make intelligent systems usable in the real world.
+
+```yaml
+role: "AI & Data Science Engineer"
+focus: ["Machine Learning", "NLP", "Backend Engineering", "Data Analytics"]
+mindset: "Product-first engineering — models are only useful when they ship"
+```
+
+**🎯 Open To:**
+- Software / ML Engineer roles (full-time & internship)
+- Backend engineering with FastAPI / Flask
+- NLP & applied machine learning collaborations
+- Open-source contributions in AI tooling
 
 ---
 
-## 🛠️ Enterprise Tech Stack
+## ⚙️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
+
+**Data Science & Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=A78BFA)
+![NumPy](https://img.shields.io/badge/NumPy-1a1a2e?style=flat-square&logo=numpy&logoColor=A78BFA)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-1a1a2e?style=flat-square&logo=scikitlearn&logoColor=A78BFA)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=A78BFA)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1a2e?style=flat-square&logo=opencv&logoColor=A78BFA)
+![spaCy](https://img.shields.io/badge/spaCy-1a1a2e?style=flat-square&logo=spacy&logoColor=A78BFA)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1a1a2e?style=flat-square&logo=plotly&logoColor=A78BFA)
+![Seaborn](https://img.shields.io/badge/Seaborn-1a1a2e?style=flat-square&logo=python&logoColor=A78BFA)
+![Power BI](https://img.shields.io/badge/Power%20BI-1a1a2e?style=flat-square&logo=powerbi&logoColor=A78BFA)
+
+**Backend & Full-Stack**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=A78BFA)
+![Flask](https://img.shields.io/badge/Flask-1a1a2e?style=flat-square&logo=flask&logoColor=A78BFA)
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=A78BFA)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-1a1a2e?style=flat-square&logo=swagger&logoColor=A78BFA)
+![JWT](https://img.shields.io/badge/JWT%20Auth-1a1a2e?style=flat-square&logo=jsonwebtokens&logoColor=A78BFA)
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode&theme=dark" />
+![Render](https://img.shields.io/badge/Render-1a1a2e?style=flat-square&logo=render&logoColor=A78BFA)
+![Jupyter](https://img.shields.io/badge/Jupyter-1a1a2e?style=flat-square&logo=jupyter&logoColor=A78BFA)
+![Streamlit](https://img.shields.io/badge/Streamlit-1a1a2e?style=flat-square&logo=streamlit&logoColor=A78BFA)
+
+---
+
+## 🤖 AI / ML Expertise
 
 <div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" />
-  <h3>Backend & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,mongodb,mysql&theme=dark" />
-  <h3>Cloud, DevOps & Tooling</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux&theme=dark" />
-</div>
-
----
-
-## 🧠 AI / ML Expertise
 
 | Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Natural Language Processing (NLP)** | Advanced | Architecting strictly NLP-powered text analysis, semantic search, and ATS systems. |
-| **Machine Learning** | Advanced | Predictive modeling, data cleaning, feature engineering using Scikit-Learn and Pandas. |
-| **Large Language Models (LLM)** | Intermediate | Integrating LLM capabilities for context-aware applications and intelligent assistants. |
-| **Computer Vision** | Intermediate | Image processing and real-time visualization using OpenCV. |
+|---|:---:|---|
+| **Natural Language Processing** | ⭐⭐⭐⭐⭐ | Text extraction, keyword & NER pipelines, semantic similarity matching (spaCy) |
+| **Predictive Analytics** | ⭐⭐⭐⭐⭐ | Classification & regression models reaching 91–92% accuracy on real datasets |
+| **Feature Engineering** | ⭐⭐⭐⭐ | Statistical feature selection, preprocessing pipelines for structured data |
+| **Model Evaluation** | ⭐⭐⭐⭐ | Benchmarking Logistic Regression, Random Forest, Gradient Boosting |
+| **Data Visualization** | ⭐⭐⭐⭐ | Matplotlib, Seaborn, Plotly, Power BI dashboards for decision support |
+| **Computer Vision (OpenCV)** | ⭐⭐⭐ | Image preprocessing and applied CV fundamentals |
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
-  <summary><b>TalentLens (Resume Ranker)</b> <i>[Click to Expand]</i></summary>
-  <br/>
-  An advanced, fully NLP-powered Automated Applicant Tracking System designed for high-precision resume analysis and intelligent candidate ranking. Built to optimize recruitment pipelines without relying on generalized AI.
-  <br/><br/>
-  
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Python, NLP Libraries, Pandas, Flask, React |
-  | **Scale** | Capable of parsing and ranking extensive document datasets. |
-  | **Performance** | O(N) ranking algorithm optimized for rapid text vectorization. |
-  | **Security** | Secure local document processing. |
-  | **Impact** | Streamlines HR workflows by accurately matching candidates to job descriptions. |
-  | **Repository** | [View Source](#) |
+<summary><b>🎯 TalentLens — NLP-Based Applicant Tracking System & Candidate Ranking</b></summary>
+<br/>
 
-  *Professional Note:* Engineered strictly using Natural Language Processing algorithms to ensure deterministic and bias-reduced text analysis, completely separate from general generative AI models.
+Full-stack NLP-powered ATS that screens and ranks candidate resumes at scale, automating a traditionally manual hiring workflow with objective, multi-dimensional scoring.
+
+| Category | Details |
+|---|---|
+| **Stack** | FastAPI, React, MongoDB, spaCy, Python, NLP, Render, Vercel |
+| **Scale** | Screened & ranked 50+ resumes across 20+ IT job roles |
+| **Performance** | 80–90% skill-matching accuracy · single-resume screening in 1.5–1.8s · bulk batch in ~8–9s |
+| **Security** | Structured API design with validated request/response handling |
+| **Impact** | Automated end-to-end resume screening previously done manually |
+| **Repository** | [GitHub](https://linktr.ee/Prasen8) · [Live Project](https://linktr.ee/Prasen8) |
+
+Engineered an NLP pipeline covering text extraction, 280+ keyword skill extraction, synonym handling, and Named Entity Recognition. Applied semantic similarity matching to move beyond keyword-only approaches, and designed a multi-dimensional scoring algorithm weighting skills, experience, education, and keyword relevance — complete with auto role-detection (Top-3 predictions), an analytics dashboard, PDF report generation, and automated email notifications.
+
 </details>
 
 <details>
-  <summary><b>Blockchain Land Registry System</b> <i>[Click to Expand]</i></summary>
-  <br/>
-  A decentralized web application designed to eliminate fraudulent property transactions by storing land records on an immutable blockchain ledger.
-  <br/><br/>
-  
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Python, Blockchain, Smart Contracts, React |
-  | **Scale** | Enterprise-grade ledger architecture. |
-  | **Performance** | High-throughput transaction verification. |
-  | **Security** | Cryptographic hashing (SHA-256) ensuring data immutability. |
-  | **Impact** | Proposes a highly secure alternative to traditional paper-based registry systems. |
-  | **Repository** | [View Source](#) |
+<summary><b>🏏 IPL Analytics — End-to-End Machine Learning & Predictive Analytics Platform</b></summary>
+<br/>
 
-  *Professional Note:* Designed full-stack architecture, securely connecting the frontend GUI with backend distributed ledger logic to ensure transparent property ownership.
+Full-stack analytics platform delivering real-time match win prediction, score forecasting, and interactive dashboards built on historical ball-by-ball IPL data.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, Jupyter Notebook, Pandas, NumPy, Scikit-learn, Flask, Matplotlib, Plotly, Render, Vercel |
+| **Scale** | Multi-season historical ball-by-ball dataset |
+| **Performance** | 92% prediction accuracy on live match outcomes |
+| **Security** | Server-side model inference via Flask API endpoints |
+| **Impact** | Real-time analytics used for momentum tracking and forecasting |
+| **Repository** | [GitHub](https://linktr.ee/Prasen8) · [Live Project](https://linktr.ee/Prasen8) |
+
+Trained and benchmarked Logistic Regression, Random Forest, and Gradient Boosting models, engineering features across multiple seasons to identify the highest-performing predictor. Automated data pipelines power advanced analytics including momentum tracking, pressure-index scoring, playoff-qualification forecasting, and season-award predictions.
+
 </details>
 
 <details>
-  <summary><b>Interactive Health Assistant GUI</b> <i>[Click to Expand]</i></summary>
-  <br/>
-  A next-generation medical advisory interface combining LLM-powered image diagnostics with an interactive frontend system.
-  <br/><br/>
-  
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Python, Gradio, Streamlit, LLM APIs |
-  | **Scale** | Real-time image and text processing. |
-  | **Performance** | Low-latency response via optimized API gateways. |
-  | **Security** | Ephemeral data handling for uploaded medical imagery. |
-  | **Impact** | Democratizes access to preliminary health insights. |
-  | **Repository** | [View Source](#) |
+<summary><b>❤️ Heart Disease Prediction ML Model</b></summary>
+<br/>
 
-  *Professional Note:* Integrated sophisticated LLM multi-modal capabilities seamlessly into a user-friendly Gradio/Streamlit dashboard.
+Machine learning web application predicting heart disease risk, deployed behind an interactive real-time interface.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, Flask, Pandas, Scikit-learn, Matplotlib, Seaborn, HTML/CSS, Render |
+| **Scale** | Cleveland Heart Disease dataset — 303 records, 13 clinical features |
+| **Performance** | 91% model accuracy after cleaning, preprocessing & feature engineering |
+| **Security** | Input validation on clinical feature submission |
+| **Impact** | Real-time healthcare risk assessment tool |
+| **Repository** | [GitHub](https://linktr.ee/Prasen8) · [Live Project](https://linktr.ee/Prasen8) |
+
+Evaluated multiple classification algorithms in Scikit-learn with statistical feature-selection techniques, then deployed the best-performing model behind an interactive Flask interface for real-time risk assessment.
+
 </details>
 
 ---
 
-## 💼 Professional Experience & Leadership
+## 💼 Experience
 
-**Project Lead & Organizer** | Academic & Sports Committees
-*2025 – 2026*
-Spearheaded team-based engineering projects and large-scale collegiate events, demonstrating strong leadership and cross-functional collaboration.
-* Directed inter-department events (Gaiety 2026), including managing schedules, visual branding, and team coordination.
-* Organized academic and sports tournaments including mixed-gender formats to foster inclusive participation.
-* Led software engineering teams to deliver complex technical projects (e.g., decentralized applications and NLP tools).
-* **Skills:** *Project Management, Agile Development, Cross-functional Leadership, Technical Architecture.*
+**Data Science Trainee Intern** · Edu-Versity, India *(Remote)*
+`June 2024 — August 2024`
+
+Contributed to the core data science workflow — from raw data to model-driven insight — while strengthening exploratory analysis and evaluation practices.
+
+- Cleaned and preprocessed real-world datasets using Pandas and NumPy
+- Conducted exploratory data analysis (EDA) to surface trends ahead of modeling
+- Trained and evaluated machine learning models using feature engineering and model evaluation techniques
+- Visualized results with Matplotlib and Seaborn to support data-driven recommendations
+
+`Python` `Pandas` `NumPy` `EDA` `Matplotlib` `Seaborn` `Feature Engineering`
 
 ---
 
@@ -135,10 +184,11 @@ Spearheaded team-based engineering projects and large-scale collegiate events, d
 <div align="center">
 
 | Recognition | Details |
-| :--- | :--- |
-| **Lead Architect** | Successfully developed and deployed *TalentLens*, demonstrating advanced NLP competency. |
-| **Event Leadership** | Orchestrated the successful execution of multiple large-scale college tournaments and fests. |
-| **Full-Stack Proficiency** | Built end-to-end blockchain architectures and resolved dynamic state logic in complex React apps. |
+|---|---|
+| 🥇 ATS Accuracy Milestone | Achieved 80–90% skill-matching accuracy across 20+ job roles in TalentLens |
+| 📈 Predictive Modeling | Reached 92% live prediction accuracy in IPL Analytics platform |
+| 🩺 Healthcare ML Deployment | Delivered 91% accuracy heart disease risk model, deployed on Render |
+| 🚀 Full-Stack Delivery | Shipped 3 production-deployed ML/NLP applications independently |
 
 </div>
 
@@ -146,22 +196,26 @@ Spearheaded team-based engineering projects and large-scale collegiate events, d
 
 ## 📜 Certifications
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Database_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Data_Science_Focus-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</div>
+**Edu-Versity**
+
+![Data Science Trainee Internship](https://img.shields.io/badge/Data%20Science%20Trainee%20Internship%20Program-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=A78BFA)
+
+**Null Class**
+
+![Data Analyst Training Program](https://img.shields.io/badge/Data%20Analyst%20Training%20Program-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=A78BFA)
 
 ---
 
 ## 💻 Coding Profiles
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](https://leetcode.com/Prasen8)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=A78BFA)](https://geeksforgeeks.org/user/Prasen8)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=A78BFA)](https://hackerrank.com/Prasen8)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1a1a2e?style=for-the-badge&logo=codechef&logoColor=A78BFA)](https://codechef.com/users/Prasen8)
+[![Kaggle](https://img.shields.io/badge/Kaggle-1a1a2e?style=for-the-badge&logo=kaggle&logoColor=A78BFA)](https://kaggle.com/prasennimje)
+
 </div>
 
 ---
@@ -169,10 +223,12 @@ Spearheaded team-based engineering projects and large-scale collegiate events, d
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasen8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=9370DB" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasen8&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=9370DB&currStreakLabel=8A2BE2" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasen8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" width="48%" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Prasen8&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&icon_color=8a2be2&text_color=c9c9e3" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Prasen8&theme=radical&hide_border=true&background=1a1a2e&stroke=8a2be2&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasen8&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&text_color=c9c9e3" />
+
 </div>
 
 ---
@@ -180,7 +236,9 @@ Spearheaded team-based engineering projects and large-scale collegiate events, d
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prasen8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prasen8&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
 </div>
 
 ---
@@ -188,7 +246,9 @@ Spearheaded team-based engineering projects and large-scale collegiate events, d
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasen8&theme=react-dark&bg_color=0D1117&color=8A2BE2&line=9370DB&point=FFFFFF&hide_border=true" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasen8&theme=react-dark&bg_color=1a1a2e&color=A78BFA&line=8a2be2&point=ffffff&area=true&hide_border=true" width="100%"/>
+
 </div>
 
 ---
@@ -196,7 +256,9 @@ Spearheaded team-based engineering projects and large-scale collegiate events, d
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Prasen8/Prasen8/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+
+<img src="https://raw.githubusercontent.com/Prasen8/Prasen8/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 </div>
 
 ---
@@ -204,18 +266,39 @@ Spearheaded team-based engineering projects and large-scale collegiate events, d
 ## 🎯 Current Focus
 
 ```yaml
-status:
-  learning:
-    - Advanced Transformer Architectures
-    - Scalable System Design
-    - Applied Machine Learning
-  building:
-    - TalentLens (Strictly NLP-powered ATS)
-    - Full-Stack Blockchain Applications
-  exploring:
-    - Generative AI Integration (LLMs)
-    - System Optimization
-  open_to:
-    - Full-time Software Engineering roles
-    - AI/ML Engineering positions
-    - Open Source collaborations
+learning:
+  - Advanced NLP & Transformer-based architectures
+  - System design for scalable ML services
+building:
+  - Production-grade AI/ML applications with FastAPI backends
+  - End-to-end analytics platforms with real-time inference
+exploring:
+  - MLOps and model deployment pipelines
+  - Cloud-native AI infrastructure
+open_to:
+  - Software / ML Engineer opportunities
+  - Open-source AI tooling collaborations
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:prasennimje100@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/prasen-nimje)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Prasen8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=linktree&logoColor=A78BFA)](https://linktr.ee/Prasen8)
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Turning Data into Insights, Building Models that Matter."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:6a0dad,100:1a1a2e&height=120&section=footer" width="100%"/>
+
+</div>
