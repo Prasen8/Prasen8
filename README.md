@@ -79,9 +79,13 @@ mindset: "Product-first engineering — models are only useful when they ship"
 **Cloud, DevOps & Tooling**
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode&theme=dark" />
-![Render](https://img.shields.io/badge/Render-1a1a2e?style=flat-square&logo=render&logoColor=A78BFA)
-![Jupyter](https://img.shields.io/badge/Jupyter-1a1a2e?style=flat-square&logo=jupyter&logoColor=A78BFA)
-![Streamlit](https://img.shields.io/badge/Streamlit-1a1a2e?style=flat-square&logo=streamlit&logoColor=A78BFA)
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-1a1a2e?style=for-the-badge&logo=render&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Jupyter-1a1a2e?style=for-the-badge&logo=jupyter&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Streamlit-1a1a2e?style=for-the-badge&logo=streamlit&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=A78BFA" />
+</p>
 
 ---
 
