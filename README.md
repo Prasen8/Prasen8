@@ -7,7 +7,7 @@
 <br/>
 
 ![B.E. AI & Data Science](https://img.shields.io/badge/B.E.-AI%20%26%20Data%20Science-6a0dad?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Pusad%2C%20Maharashtra%2C%20India-8a2be2?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Pune%2C%20Maharashtra%2C%20India-8a2be2?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
